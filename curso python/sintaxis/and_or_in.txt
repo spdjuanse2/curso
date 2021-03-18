@@ -1,0 +1,3 @@
+and se usa para garantizar que se cumplan una serie de condiciones a la vez
+or se usa pra esepciones es decir si no se cumple algo entonces verifique o haga esto
+in se usa cuando hay muchas opciones correctas pero no queremos igualart la variable muchas veces
